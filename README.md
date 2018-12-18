@@ -1,4 +1,4 @@
-C socket programming client/server model that implements pattern matching to check for strings in a hard coded file on the server side via AES encrypted communications. MISRA compliant. Design, documentation, and misuse case findings can be found in the Design, Documentation, and Misuse Case folder. YOU WILL NEED ALL APPLICABLE OPENSSL LIBRARIES.
+C socket programming client/server model that implements pattern matching to check for strings in a hard coded file on the server side via AES encrypted communications. MISRA compliant. Design, documentation, misuse case, and compliance findings can be found in the Design, Documentation, Misuse Case, and Compliance folder. YOU WILL NEED ALL APPLICABLE OPENSSL LIBRARIES.
 
 HOW TO USE:
 
