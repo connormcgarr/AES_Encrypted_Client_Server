@@ -1,4 +1,4 @@
-C socket programming client/server model that implements pattern matching to check for strings in a file via AES encrypted communications. MISRA compliant.
+C socket programming client/server model that implements pattern matching to check for strings in a hard coded file on the server side via AES encrypted communications. MISRA compliant.
 HOW TO USE:
 cd client_server  
 cd client  
